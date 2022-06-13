@@ -4,7 +4,7 @@ Twitter Timeline Project. All of my tweets will be shown here.
 The site is live at : https://tweetsbyrahul.netlify.app/
 
 <a target="_blank" href="https://tweetsbyrahul.netlify.app">
-          <img src="" width="100%" alt="Tweets by Rahul"/>
+          <img src="https://github.com/rahulkarda/Twitter-Timeline/blob/master/images/tweetsbyrahul.jpg?raw=true" width="100%" alt="Tweets by Rahul"/>
 </a>
 <br>
 
