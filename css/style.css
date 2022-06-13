@@ -66,3 +66,24 @@ footer a:hover {
         font-size: 30px;
     }
 }
+#followers{
+    width: 25%;
+    margin-bottom: 25px;
+}
+.hide{
+    display: none;
+}
+.form-switch{
+    position: relative;
+    top: 0.75em;
+    left: 5vw;
+    font-size: 25px;
+}
+@media screen and (max-width: 900px){
+    .form-switch{
+        margin-top: 0.5em;
+        margin-left: 0.5em;
+        top: 0em;
+        left: 0em;
+    }
+}
