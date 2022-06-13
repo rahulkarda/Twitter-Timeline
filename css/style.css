@@ -86,4 +86,15 @@ footer a:hover {
         top: 0em;
         left: 0em;
     }
+    #followers{
+        width: 50%;
+    }
+    #devName{
+        margin-top: 7%;
+    }
+}
+
+#lightThemeTweets,#darkThemeTweets{
+    width: 90%;
+    margin: auto;
 }
