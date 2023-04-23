@@ -97,4 +97,6 @@ footer a:hover {
 #lightThemeTweets,#darkThemeTweets{
     width: 90%;
     margin: auto;
+    display: flex;
+    justify-content: center;
 }
